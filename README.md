@@ -1,3 +1,3 @@
 # alien-invasion
 Alien Invasion game developed in Python 3.6
-Learn Python NYC group - Project 1
+Pygame package to create a 2D game to shoot down a fleet of aliens. 
